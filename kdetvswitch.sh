@@ -12,6 +12,8 @@ kscreen-doctor output.___.disable output.___.disable output.___.enable
 
 kscreen-doctor output.HDMI-__.mode.2560x1440@120
 
+#set audio device https://docs.kde.org/stable5/en/kmix/kmix/advanced.html#idm296
+
 }
 
 if(option == "deskmode"){
